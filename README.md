@@ -1,1 +1,1 @@
-# React + TypeScript 100ノック
+# React + TypeScript 100 本ノック
